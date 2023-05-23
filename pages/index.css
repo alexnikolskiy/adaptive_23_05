@@ -1,3 +1,9 @@
 @import url("../vendor/fonts/fonts.css");
 @import url("../vendor/normalize.css");
 @import url("../blocks/page/page.css");
+@import url("../blocks/page/__container/page__container.css");
+@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__link/cover__link.css");
+@import url("../blocks/cover/__title/cover__title.css");
+@import url("../blocks/cover/__list/cover__list.css");
+@import url("../blocks/cover/__item/cover__item.css");

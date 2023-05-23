@@ -1,0 +1,15 @@
+.cover__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px;
+}
+
+.cover__list:last-child {
+  margin: 0;
+}
+
+@media (max-width: 1279px) {
+  .cover__list:last-child {
+    display: none;
+  }
+}
